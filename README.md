@@ -1,2 +1,2 @@
 # php-batch-iii-day05
-Belajarah PHPMyAdmin dan MySQl 
+Belajarah PHPMyAdmin dan MySQL 
